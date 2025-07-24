@@ -6,7 +6,7 @@ const socialNetworks = [
   { name: "linkedin", icon: <FaLinkedinIn />, link: "https://www.linkedin.com/in/matheusm22"},
   { name: "github", icon: <FaGithub />, link: "https://github.com/matheusm22"},
   { name: "instagram", icon: <FaInstagram />, link: "https://www.instagram.com/matheusmm22/" },
-  { name: "instagram", icon: <FaWheelchair/>},
+  {  name: "pcd", icon: <FaWheelchair />, title: "PCD" },
 ];
 
 const SocialNetworkContainer = () => {
